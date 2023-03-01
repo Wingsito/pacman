@@ -7,13 +7,13 @@ body{
   padding: 0;
   height: 100vh;
   background-color: black;
-  background-image: url(../images/azul.gif);
+  background-image: url(images/azul.gif);
   color:gold;
   background-size: cover;
   font-family: 'Press Start 2P', cursive;
 }
 .fondo {
-  background-image: url(../images/pacman.gif);
+  background-image: url(images/pacman.gif);
   background-size: 100%;
   height: 70vh;
 }
